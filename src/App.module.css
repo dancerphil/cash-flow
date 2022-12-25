@@ -1,0 +1,7 @@
+.container {
+  display: inline-flex;
+  white-space: nowrap;
+  flex-flow: wrap;
+  font-size: 32px;
+  line-height: 32px;
+}
