@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cash-flow/static/css/main.ad41a73f.css",
+    "main.js": "/cash-flow/static/js/main.be451061.js",
+    "static/js/244.6ced5267.chunk.js": "/cash-flow/static/js/244.6ced5267.chunk.js",
+    "index.html": "/cash-flow/index.html",
+    "main.ad41a73f.css.map": "/cash-flow/static/css/main.ad41a73f.css.map",
+    "main.be451061.js.map": "/cash-flow/static/js/main.be451061.js.map",
+    "244.6ced5267.chunk.js.map": "/cash-flow/static/js/244.6ced5267.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad41a73f.css",
+    "static/js/main.be451061.js"
+  ]
+}
